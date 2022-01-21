@@ -1,16 +1,31 @@
-# selixer
+# SELIXER
 
-A new Flutter application.
+An Aquaculture based project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is all about Aquaculture and its applications to help farmers to scale their businesses in terms of production and good quality.
 
-A few resources to get you started if this is your first Flutter project:
+- `OnBoarding Screen`
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+                                               <img src="assets/Onboarding1.jpg" width="200"> <img src="assets/Onboarding2.jpg" width="200"> <img src="assets/Onboarding3.jpg" width="200"> 
+
+- `Authentication`
+
+                                               <img src="assets/SignIN.jpg" width="200"> <img src="assets/SignUP_page.jpg" width="200"> 
+
+### Here we provide features like:
+
+- Aqua Calculator 
+- Aqua News
+- Aqua Articles
+- Help Desk
+- Selixer Products
+- Technical Support
+
+<img src="assets/home.jpg" width="200"> <img src="assets/AquaCalculator.jpg" width="200"> <img src="assets/Settings.jpg" width="200"> <img src="assets/contact support.jpg" width="200">
+                                               
+#### We also provide features to interact via `Audio/Video` where consumer will record the message and send it to our technical support. 
+
+                                                  <img src="assets/Audiorecorder.jpg" width="200"> <img src="assets/Camera.jpg" width="200" crop=ture> 
